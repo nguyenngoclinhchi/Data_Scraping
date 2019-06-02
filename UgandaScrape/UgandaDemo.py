@@ -1,6 +1,5 @@
 import bs4
 import future.backports.urllib.request
-import pandas
 import pandas.io.common
 
 class country_stock_index(object):
@@ -25,6 +24,7 @@ print(content_country.strip().replace(',', ''))
 print(content_value.strip().replace(',', ''))
 print(content_date.strip().replace(',', ''))
 
-file = pandas.read_excel('D:\\Kitty\\NUS\\2-INTERNSHIP-PART-TIME-JOB\\RMI-CRI\\MacroData_WebsiteSources.xlsx')
+file = pandas.read_excel('MacroData_WebsiteSources.xlsx')
 df = pandas.DataFrame(file, columns= ['ID_macro_ent', 'Country', 'Source'])
 print (df)
+
