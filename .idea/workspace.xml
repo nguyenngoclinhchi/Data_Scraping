@@ -1,22 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ce9f44c-dbd4-4f27-9792-dbf80bfddb8f" name="Default Changelist" comment="" />
+    <list default="true" id="4764f49b-711f-4208-bd63-9ddd43247993" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UgandaScrape/UgandaDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/UgandaDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UgandaScrape/file_clean.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/file_clean.xlsx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55085">
+              <caret line="2395" column="102" selection-start-line="2395" selection-start-column="96" selection-end-line="2395" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="62">
+              <caret line="104" column="35" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -24,13 +52,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-size:7pt</find>
+      <find>tab_nt</find>
+      <find>href</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UgandaScrape/UgandaDemo.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="230" />
-    <option name="width" value="1385" />
-    <option name="height" value="1090" />
+    <option name="x" value="-8" />
+    <option name="width" value="933" />
+    <option name="height" value="550" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -41,12 +83,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Data_Scraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_Scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="Uganda-Scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uganda-Scraping" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Data_Scraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_Scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="Uganda-Scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uganda-Scraping" type="462c0819:PsiDirectoryNode" />
               <item name="UgandaScrape" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -57,16 +99,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../3-IT_Professionalism/Python/Python_code" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data_Scraping" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,7 +124,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\7567-770114GL\Anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\Acer User\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UgandaScrape" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -109,59 +145,82 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ce9f44c-dbd4-4f27-9792-dbf80bfddb8f" name="Default Changelist" comment="" />
-      <created>1559292838655</created>
+      <changelist id="4764f49b-711f-4208-bd63-9ddd43247993" name="Default Changelist" comment="" />
+      <created>1559490104519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559292838655</updated>
-      <workItem from="1559292845788" duration="1686000" />
-      <workItem from="1559331767302" duration="793000" />
-      <workItem from="1559926299846" duration="79000" />
+      <updated>1559490104519</updated>
+      <workItem from="1559490107373" duration="158000" />
+      <workItem from="1559490282722" duration="1050000" />
+      <workItem from="1559491360230" duration="164000" />
+      <workItem from="1559491639663" duration="1120000" />
+      <workItem from="1559634219772" duration="2360000" />
+      <workItem from="1559925082930" duration="143000" />
+      <workItem from="1560219065469" duration="3159000" />
+      <workItem from="1560237170697" duration="6469000" />
+      <workItem from="1560243823024" duration="2506000" />
+      <workItem from="1560247070688" duration="609000" />
+      <workItem from="1560308937049" duration="690000" />
+      <workItem from="1560324156056" duration="261000" />
+      <workItem from="1560344383037" duration="3261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2558000" />
+    <option name="totallyTimeSpent" value="21950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1421" height="843" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25698325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24615385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872927" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2852984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55312955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32871014" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.32896653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Data_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1559292896634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+    <SUITE FILE_PATH="coverage/Data_scraping$UgandaScrape.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1559492082943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+    <SUITE FILE_PATH="coverage/Uganda_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1560346770748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55085">
+          <caret line="2395" column="102" selection-start-line="2395" selection-start-column="96" selection-end-line="2395" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="62">
+          <caret line="104" column="35" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
