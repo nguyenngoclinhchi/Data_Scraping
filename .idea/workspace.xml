@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4764f49b-711f-4208-bd63-9ddd43247993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UgandaScrape/lists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UgandaScrape/run.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UgandaScrape/UgandaDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/UgandaDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UgandaScrape/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UgandaScrape/smart_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/smart_data.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+            <state relative-caret-position="488">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -50,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UgandaScrape/run.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="186">
+              <caret line="41" column="138" lean-forward="true" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -173,23 +172,22 @@
       <workItem from="1560308937049" duration="690000" />
       <workItem from="1560324156056" duration="261000" />
       <workItem from="1560344383037" duration="3784000" />
-      <workItem from="1560349444775" duration="1597000" />
+      <workItem from="1560349444775" duration="4065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24070000" />
+    <option name="totallyTimeSpent" value="26538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1421" height="843" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2852984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55312955" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55312955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -213,7 +211,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_scraping$UgandaScrape.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1559492082943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
-    <SUITE FILE_PATH="coverage/Uganda_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1560346770748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+    <SUITE FILE_PATH="coverage/Uganda_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1560352360363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.css">
@@ -234,20 +232,20 @@
     <entry file="file://$PROJECT_DIR$/UgandaScrape/listsdoc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/run.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="186">
+          <caret line="41" column="138" lean-forward="true" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="138" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UgandaScrape/run.bat">
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="488">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
