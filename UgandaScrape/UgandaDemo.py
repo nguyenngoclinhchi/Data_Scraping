@@ -103,4 +103,5 @@ list_source = list()
 list_query = list()
 file_name = 'MacroData_WebsiteSources - Copy.xlsx'
 file = pandas.read_excel(file_name)
+get_details(file)
 connect_mysql_server(file_name)
