@@ -5,7 +5,6 @@ import future.backports.urllib.request
 import pandas.io.common
 import pandas as pd
 import pymysql
-import pyodbc
 
 
 def get_bs_obj(link):
@@ -103,11 +102,12 @@ list_source = list()
 list_query = list()
 file_name = 'MacroData_WebsiteSources - Copy.xlsx'
 df_raw = pandas.read_excel(file_name)
+print(df_raw)
 get_details(df_raw)
 zipped = list(zip(list_id, list_name, list_code, list_date, list_value, list_link, list_source, list_query))
 df_result = pd.DataFrame(zipped)
 print(df_result)
 headers = ['ID_macro_ent', 'Country name', 'INDEX', 'Trading Date', 'Value', 'Link', 'Source', 'Query']
 df_result.to_excel('smart_data.xlsx', index=False, header=headers)
-print("The Excel File has been successfully created in D:\Kitty\IT_Professionalism\Machine_Learning")
+print("The Excel File has been successfully created in Desktop")
 # connect_mysql_server(file_name)
