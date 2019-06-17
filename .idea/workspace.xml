@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4764f49b-711f-4208-bd63-9ddd43247993" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/UgandaScrape/Copy_Interest_3year_rate.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UgandaScrape/run_PC_CRI31.bat" afterDir="false" />
@@ -9,6 +10,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UgandaScrape/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/run.bat" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/UgandaScrape/Merge_two_excel_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UgandaScrape/runJupyterLab.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
       <change beforePath="$PROJECT_DIR$/UgandaScrape/smart_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/UgandaScrape/smart_data.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,27 +39,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="38320">
               <caret line="2395" column="102" selection-start-line="2395" selection-start-column="96" selection-end-line="2395" selection-end-column="102" />
+=======
+            <state relative-caret-position="120">
+              <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
+        <entry file="file://$PROJECT_DIR$/UgandaScrape/Merge_two_excel_files.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="480">
               <caret line="63" column="64" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="64" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,11 +88,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
               <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UgandaScrape/run.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/UgandaScrape/run_PC_CRI31.bat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -86,11 +114,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16">
               <caret line="1" column="151" selection-start-line="1" selection-start-column="151" selection-end-line="1" selection-end-column="151" />
+=======
+        <entry file="file://$PROJECT_DIR$/UgandaScrape/runJupyterLab.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -109,6 +150,7 @@
         <option value="$PROJECT_DIR$/UgandaScrape/Copy_Interest_3year_rate.bat" />
         <option value="$PROJECT_DIR$/UgandaScrape/run_PC_CRI31.bat" />
         <option value="$PROJECT_DIR$/UgandaScrape/run.bat" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py" />
       </list>
     </option>
@@ -118,6 +160,17 @@
     <option name="y" value="219" />
     <option name="width" value="937" />
     <option name="height" value="554" />
+=======
+        <option value="$PROJECT_DIR$/UgandaScrape/runJupyterLab.bat" />
+        <option value="$PROJECT_DIR$/UgandaScrape/Merge_two_excel_files.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="696" />
+    <option name="width" value="1133" />
+    <option name="height" value="1040" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -146,6 +199,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -153,6 +207,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\E0196722\Desktop\WebScraping\UgandaScrape" />
     </key>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../IT_Professionalism/Machine_Learning/Python/ML_Soure code" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,21 +224,34 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.UgandaDemo-CRI31">
     <configuration name="UgandaDemo-CRI31" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.UgandaDemo">
+    <configuration name="Merge_two_excel_files" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
       <module name="Data_Scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="C:\Users\E0196722\AppData\Local\Continuum\anaconda3\python.exe" />
+=======
+      <option name="SDK_HOME" value="C:\Users\Acer User\Anaconda3\python.exe" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UgandaScrape" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UgandaScrape/Merge_two_excel_files.py" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +284,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.UgandaDemo" />
+<<<<<<< HEAD
       <item itemvalue="Python.UgandaDemo-CRI31" />
+=======
+      <item itemvalue="Python.Merge_two_excel_files" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -241,13 +316,22 @@
       <workItem from="1560344383037" duration="3784000" />
       <workItem from="1560349444775" duration="4065000" />
       <workItem from="1560356148278" duration="603000" />
+<<<<<<< HEAD
       <workItem from="1560390047878" duration="357000" />
       <workItem from="1560390757169" duration="15000" />
       <workItem from="1560390786941" duration="4962000" />
+=======
+      <workItem from="1560390047878" duration="2372000" />
+      <workItem from="1560524032968" duration="1710000" />
+      <workItem from="1560565359964" duration="632000" />
+      <workItem from="1560668525745" duration="159000" />
+      <workItem from="1560668706762" duration="679000" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="32475000" />
   </component>
   <component name="ToolWindowManager">
@@ -255,6 +339,15 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26312578" />
+=======
+    <option name="totallyTimeSpent" value="32693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1422" height="843" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2715959" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,8 +362,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32871014" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Statistic" order="13" weight="0.32896653" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32896653" />
+      <window_info active="true" anchor="bottom" id="Statistic" order="13" visible="true" weight="0.23435226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,9 +386,15 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/WebScraping$UgandaDemo_CRI31.coverage" NAME="UgandaDemo-CRI31 Coverage Results" MODIFIED="1560479234231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
     <SUITE FILE_PATH="coverage/Uganda_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1560352360363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
     <SUITE FILE_PATH="coverage/Data_scraping$UgandaScrape.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1559492082943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+=======
+    <SUITE FILE_PATH="coverage/Uganda_Scraping$Merge_two_excel_files.coverage" NAME="Merge_two_excel_files Coverage Results" MODIFIED="1560524915909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+    <SUITE FILE_PATH="coverage/Data_scraping$UgandaScrape.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1559492082943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+    <SUITE FILE_PATH="coverage/Uganda_Scraping$UgandaDemo.coverage" NAME="UgandaDemo Coverage Results" MODIFIED="1560565374506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UgandaScrape" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.css">
@@ -311,7 +410,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UgandaScrape/african-market.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="38320">
+=======
+        <state relative-caret-position="580">
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
           <caret line="2395" column="102" selection-start-line="2395" selection-start-column="96" selection-end-line="2395" selection-end-column="102" />
         </state>
       </provider>
@@ -339,18 +442,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="480">
           <caret line="63" column="64" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="64" />
+=======
+        <state relative-caret-position="120">
+          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/UgandaScrape/UgandaDemo-CRI31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/Merge_two_excel_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UgandaScrape/runJupyterLab.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
+>>>>>>> 114cad7883d9a820773d7a9954e0a7e499d5d79f
         </state>
       </provider>
     </entry>
