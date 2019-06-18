@@ -23,7 +23,7 @@ Rem Changing to the parent directory two levels up
 cd..\..
 cd
 Rem Changing back to the D:\Kitty\NUS\Internship-PartTimeJob\RMI-CRI\Uganda-Scraping\UgandaScrape
-cd /d D:\Kitty\NUS\Internship-PartTimeJob\RMI-CRI\Uganda-Scraping\UgandaScrape
+cd /d
 cd
 :: This batch command run the UgandaDemo.py ----------------------------------------------------------------------------
 @echo off
