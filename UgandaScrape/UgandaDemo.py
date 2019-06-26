@@ -15,15 +15,18 @@ def get_bs_obj(link):
     # print(bs_obj.prettify())
     return bs_obj
 
+
 def get_code(bs_obj):
     content_code = list(bs_obj.find_all('h2'))[0].get_text()
     code = content_code.strip().replace(',', '')
     return code
 
+
 def get_value(bs_obj):
     content_value = list(bs_obj.find_all('span', {"style": "font-weight:bold;font-size: 22pt"}))[0].get_text()
     value = content_value.strip().replace(' ', '').replace(',', '')
     return value
+
 
 def get_date(bs_obj):
     content_date = list(bs_obj.find_all('font', {"size": "1"}))[0].get_text().split(' ')[-1]
@@ -33,10 +36,13 @@ def get_date(bs_obj):
     print(date_dt2.strftime('%Y-%m-%d'))
     return date_dt2.strftime('%Y-%m-%d')
 
+
 def create_query(macro_id, source, date, value):
-    query = 'EXECUTE TIER2.PROD.SP_INSERT_RATE ' + str(macro_id) + ', ' + str(source) + ', \'' + str(date) + '\', ' + str(value)
+    query = 'EXECUTE TIER2.PROD.SP_INSERT_RATE ' + str(macro_id) + ', ' + str(source) + ', \'' + str(
+        date) + '\', ' + str(value)
     print(query)
     return query
+
 
 def print_details(country_name, link, id_macro_ent, source):
     country = Country_stock_index(country_name, link, id_macro_ent, source)
@@ -50,6 +56,7 @@ def print_details(country_name, link, id_macro_ent, source):
     list_id.append(country.id)
     list_source.append(country.source)
 
+
 def get_details(data_frame):
     name_list = data_frame['Country'].values
     for name in name_list:
@@ -58,6 +65,7 @@ def get_details(data_frame):
         id_macro_ent = (data_frame[country])['ID_macro_ent'].values[0]
         source = (data_frame[country])['Source'].values[0]
         print_details(name, website, id_macro_ent, source)
+
 
 def connect_mysql_server(result):
     file = pd.read_excel(result)
@@ -79,6 +87,7 @@ def connect_mysql_server(result):
     # print(data_one)
     # print(data_all)
 
+
 class Country_stock_index(object):
     def __init__(self, country_name, link, id_macro_ent, source):
         self.country_name = country_name
@@ -92,6 +101,7 @@ class Country_stock_index(object):
 
     def get_country_name(self):
         return self.country_name
+
 
 list_name = list()
 list_code = list()
@@ -109,5 +119,4 @@ df_result = pd.DataFrame(zipped)
 print(df_result)
 headers = ['ID_macro_ent', 'Country name', 'INDEX', 'Trading Date', 'Value', 'Link', 'Source', 'Query']
 df_result.to_excel('smart_data.xlsx', index=False, header=headers)
-print("The Excel File has been successfully created in D:\Kitty\IT_Professionalism\Machine_Learning")
 # connect_mysql_server(file_name)

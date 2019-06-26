@@ -1,17 +1,22 @@
 import pandas as pd
 import numpy as np
 
+
 def save_xls(list_dfs, xls_path):
     with pd.ExcelWriter(xls_path) as writer:
         for n, df in enumerate(list_dfs):
-            df.to_excel(writer,'sheet%s' % n)
+            df.to_excel(writer, 'sheet%s' % n)
         writer.save()
+
+
 def read_excel(xls_path, idx_col='PhoneNumber'):
     df = pd.read_excel(xls_path)
     df[idx_col + 'Idx'] = df[idx_col]
     df.set_index(idx_col + 'Idx', inplace=True)
     print(df.head())
     return df
+
+
 table0 = read_excel('address-survey1.xlsx')
 table1 = read_excel('survey1-all-ans.xlsx')
 table2 = read_excel('survey2-filtered-ans.xlsx')
