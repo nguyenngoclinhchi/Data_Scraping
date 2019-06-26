@@ -1,0 +1,4 @@
+Dear ${PERSON_NAME},
+The following economies were trading on ${TRADING_DATE}:
+Regards, 
+Chi.
