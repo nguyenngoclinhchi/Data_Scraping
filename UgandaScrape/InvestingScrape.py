@@ -56,10 +56,10 @@ def meta_to_smart(meta):
 
 meta_list = list()
 smart_list = list()
-df = pd.read_excel('MacroData_WebsiteSources.xlsx')
-df_values = pd.read_excel('Values-2019-06-18.xlsx')
-df_merged = pd.merge(df, df_values, on = "ID_macro_ent", how = "outer")
-df.set_index("Country", inplace = True)
+# df = pd.read_excel('/Scraping/MacroData_WebsiteSources.xlsx')
+# df_values = pd.read_excel('Values-2019-06-18.xlsx')
+# df_merged = pd.merge(df, df_values, on = "ID_macro_ent", how = "outer")
+# df.set_index("Country", inplace = True)
 link = "https://www.investing.com/indices/world-indices?majorIndices=on&primarySectors=on&additionalIndices=on&otherIndices=on"
 get_bs_obj(link)
 # print_list(meta_list)
@@ -68,8 +68,8 @@ df_meta = pd.DataFrame(meta_list, columns = ["Country", "IndexName", "IndexLink"
 df_meta = df_meta[["Country", "IndexName", "Index", "Last", "IndexLink", "High", "Low", "Change", "Change%", "Time"]]
 df_meta.set_index(["Country", "IndexName"], inplace = True)
 df_meta.sort_index()
-for i in df.index:
-    if i not in df_meta.index:
-        print(i)
+# for i in df.index:
+#     if i not in df_meta.index:
+#         print(i)
 file = df_meta.to_excel("meta_data_investing.xlsx", index = True)
 print("The file has been created")
